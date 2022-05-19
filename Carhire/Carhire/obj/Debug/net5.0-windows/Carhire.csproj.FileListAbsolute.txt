@@ -1,0 +1,52 @@
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.csproj.AssemblyReference.cache
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Output.g.cs
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\App.g.cs
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire_MarkupCompile.cache
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire_MarkupCompile.lref
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Enter detailss.g.cs
+D:\visual studio code\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.exe
+D:\visual studio code\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.deps.json
+D:\visual studio code\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.runtimeconfig.json
+D:\visual studio code\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.runtimeconfig.dev.json
+D:\visual studio code\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.dll
+D:\visual studio code\Carhire\Carhire\bin\Debug\net5.0-windows\ref\Carhire.dll
+D:\visual studio code\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.pdb
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\MainWindow.baml
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Output.baml
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Enter detailss.baml
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.g.resources
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.AssemblyInfoInputs.cache
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.AssemblyInfo.cs
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.csproj.CoreCompileInputs.cache
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.dll
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\ref\Carhire.dll
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.pdb
+D:\visual studio code\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.genruntimeconfig.cache
+D:\visual studio code\car hire all\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.exe
+D:\visual studio code\car hire all\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.deps.json
+D:\visual studio code\car hire all\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.runtimeconfig.json
+D:\visual studio code\car hire all\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.runtimeconfig.dev.json
+D:\visual studio code\car hire all\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.dll
+D:\visual studio code\car hire all\Carhire\Carhire\bin\Debug\net5.0-windows\ref\Carhire.dll
+D:\visual studio code\car hire all\Carhire\Carhire\bin\Debug\net5.0-windows\Carhire.pdb
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.csproj.AssemblyReference.cache
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Enter detailss.g.cs
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Output.g.cs
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\App.g.cs
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire_MarkupCompile.cache
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire_MarkupCompile.lref
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Enter detailss.baml
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\MainWindow.baml
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Output.baml
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.g.resources
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.AssemblyInfoInputs.cache
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.AssemblyInfo.cs
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.csproj.CoreCompileInputs.cache
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.dll
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\ref\Carhire.dll
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.pdb
+D:\visual studio code\car hire all\Carhire\Carhire\obj\Debug\net5.0-windows\Carhire.genruntimeconfig.cache

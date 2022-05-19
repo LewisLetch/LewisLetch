@@ -1,0 +1,46 @@
+﻿<Window x:Class="Carhire.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Carhire"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="0,36,0,0" Text="Car Hire" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="140" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="209,79,0,0" Text="Car" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="80" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="209,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="193" FontSize="20"><Run FontSize="20" Text="Toyota IQ"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="209,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="193" RenderTransformOrigin="0.5,0.5" FontSize="20">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.004"/>
+                    <RotateTransform Angle="-0.036"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run FontSize="20" Text="Mini Cooper S"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="209,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="32" Width="193" FontSize="20"><Run FontSize="20" Text="VW Polo"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="209,220,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="32" Width="193" FontSize="20"><Run FontSize="20" Text="Audi TT"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="209,256,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="192" RenderTransformOrigin="0.5,0.5" FontSize="20">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.004"/>
+                    <RotateTransform Angle="-0.032"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run FontSize="20" Text="Mercedes A 220"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="209,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="193" FontSize="20"><Run FontSize="20" Text="Range Rover Evoque"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="209,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="193" FontSize="20"><Run FontSize="20" Text="Jaguar XJ"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="442,78,0,0" Text="Cost per day" TextWrapping="Wrap" VerticalAlignment="Top" Height="29" Width="120" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="442,120,0,0" Text="£10" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="76" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="440,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="78" FontSize="20"><Run Text="£18"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="440,189,0,0" Text="£15" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="80" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="440,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="29" Width="60" FontSize="20"><Run Text="£30"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="440,255,0,0" Text="£40" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="1.106,0.316" Height="28" Width="60" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="440,288,0,0" Text="£50" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="54" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="440,324,0,0" Text="£55" TextWrapping="Wrap" VerticalAlignment="Top" Height="28" Width="54" FontSize="20"/>
+        <Button x:Name="ToHiringButton" Content="To Hiring" HorizontalAlignment="Left" Margin="327,372,0,0" VerticalAlignment="Top" Height="34" Width="129" FontSize="20" Click="ToHiringButton_Click"/>
+
+    </Grid>
+</Window>
