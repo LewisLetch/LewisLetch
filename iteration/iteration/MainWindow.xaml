@@ -1,0 +1,18 @@
+﻿<Window x:Class="iteration.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:iteration"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="InputA" HorizontalAlignment="Left" Margin="134,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" Height="36"/>
+        <TextBox x:Name="InputX" HorizontalAlignment="Left" Margin="487,170,0,0" Text="&#xD;&#xA;" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" Height="36" FontSize="20" />
+        <TextBlock HorizontalAlignment="Left" Margin="139,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="28" FontSize="20"><Run Text="Input"/><Run Language="en-gb" Text=" Number "/><Run Text=" A "/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="156,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="16"><Run Language="en-gb" Text="Must be smaller than x"/><LineBreak/><Run Language="en-gb"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="490,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="28" FontSize="20"><Run Text="Input "/><Run Text="N"/><Run Language="en-gb" Text="u"/><Run Text="mber"/><Run Language="en-gb" Text=" "/><Run Text="X"/><Run Text=" "/></TextBlock>
+        <Button x:Name="BtnSubmit" Content="Button" HorizontalAlignment="Center" Margin="0,315,0,0" VerticalAlignment="Top" Height="34" Width="112" Click="BtnSubmit_Click"/>
+
+    </Grid>
+</Window>
